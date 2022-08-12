@@ -1,6 +1,7 @@
+__author__ = "Abenezer Walelign"
+
 import types
 
-__author__ = "Abenezer Walelign"
 
 class AbstractBaseClass(type):
 	def __new__(meta,clssName,basses,attr):
