@@ -118,10 +118,10 @@ class PyAbstractBaseClass(type):
 
 
 
-### ------ ###
-# USAGE    ### ---->>
-# -------- ###      ||
-#                   \/
+###  ------ ###
+# USAGE  ### ---->>
+# ------ ###      ||
+#                    \/
 
 
 # Test Abstract class
