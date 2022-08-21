@@ -1,5 +1,4 @@
 __author__ = "Abenezer Walelign"
-from email.policy import default
 import types
 
 
