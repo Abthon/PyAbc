@@ -165,7 +165,7 @@ class SubClass4(Test):
 
 
 
-# s3 = SubClass3()  # This doesn't works  because it doesn't implement --> test, func2 and newAbstractMethod
-# s1 = SubClass1() # This doesn't Works  because it doesn't implement  --> test, func2
-s4 = SubClass4()  # works
+# s3 = SubClass3()  # This doesn't work because it doesn't implement --> test, func2 and newAbstractMethod
+# s1 = SubClass1() # This doesn't Work because it doesn't implement  --> test, func2
+s4 = SubClass4()  # works fine
 s4.default(1, 2, c=3, d=4) # also works fine
